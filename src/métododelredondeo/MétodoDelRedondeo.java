@@ -16,6 +16,9 @@ public class MétodoDelRedondeo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Login GN = new Login();
+            GN.setVisible(true);
+            
     }
     
 }
